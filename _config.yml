@@ -73,7 +73,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+## theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,3 +82,10 @@ deploy:
   type: git
   repo: git@self.github.com:zhangliangduo/eternal-fire.git
   branch: gh-pages
+
+# 字数和阅读时长统计
+symbols_count_time:
+  symbols: false
+  time: false
+  total_symbols: true
+  total_time: true
