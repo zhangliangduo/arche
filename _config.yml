@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Eternal Fire
+title: Arche
 subtitle:
 description:
 keywords:
@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zhangliangduo.github.io/eternal-fire/
-root: /eternal-fire/
+url: https://zhangliangduo.github.io/arche/
+root: /arche/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -80,7 +80,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@self.github.com:zhangliangduo/eternal-fire.git
+  repo: git@self.github.com:zhangliangduo/arche.git
   branch: gh-pages
 
 # 字数和阅读时长统计
